@@ -1,0 +1,19 @@
+{
+  "name": "meetup05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jimp": "^0.2.28",
+    "node-fetch": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
